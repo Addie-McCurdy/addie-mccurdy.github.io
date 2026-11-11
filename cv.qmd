@@ -1,0 +1,25 @@
+---
+title: "Curriculum vitae"
+pagetitle: "CV"
+---
+
+[Download complete CV (PDF)](files/cv.pdf){.btn .btn-primary}
+
+## Education
+
+**2022–Present.** Ph.D., Applied Mathematics, University of Colorado Boulder. <br>
+Advisor: Emily Jensen. 
+
+**2018–2022.** B.A.s, Pure Mathematics and Economics, University of St. Thomas - Minnesota.
+
+
+## Awards
+Recipient of the 2024-2025 Sheryl R. Young Memorial Fellowship 
+
+
+## Service
+
+**Association for Women in Mathematics**<br>
+- Boulder student chapter president May 2024 - April 2026<br> 
+- Boulder student chapter treasurer May 2023 - April 2024
+

@@ -1,0 +1,19 @@
+---
+title: "Hello, I’m Addie"
+pagetitle: "Addie McCurdy"
+---
+
+I’m currently a Ph.D. candidate in the Department of Applied Mathematics at the University of Colorado Boulder, advised by [Emily Jensen](https://jensenemily.github.io/). I expect to graduate Summer 2027. My research area is optimal control, with a focus on robust and scalable distributed control for systems governed by partial differential equations. 
+
+The following links contain more information about my  [publications](publications.qmd) and [teaching](teaching.qmd) experience and along with a complete [CV](cv.qmd).
+
+
+
+## Recent News
+
+- **September 2026:** I completed a research visit at the University of Michigan, hosted by Dr. Pete Seiler. 
+- **August 2026:** I presented our work *Conditions for complete decentralization of the linear quadratic regulator* at MTNS 2026.
+- **August 2026:** I attended the Port-Hamiltonian school at the University of Waterloo in Ontario, Canada.
+- **May 2026:** I presented our work *A system level approach to LQR Control of the diffusion equation* at ACC 2026.
+- **May 2026:** I passed my comprehensive exam, granting me Ph.D. candidacy.
+- **December 2025:** I presented our work *Complete Decentralization of LQG control for the discrete wave equation* at CDC 2025.

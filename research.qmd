@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+A short paragraph describing your overall research program and the questions that motivate it.
+
+## Project title one
+
+*Funded by [Agency]. Collaborators: A. Smith, B. Lee.*
+
+Two to three sentences on the problem, your approach, and what you found. See the related [publications](publications.qmd).
+
+## Project title two
+
+*Ongoing since 2024.*
+
+Two to three sentences on the problem, your approach, and what you found.
+
+## Project title three
+
+*Funded by [Agency].*
+
+Two to three sentences on the problem, your approach, and what you found.
+
+## Current group
+
+- Student Name, Ph.D. student (2025–present)
+- Student Name, M.S. student (2026–present)

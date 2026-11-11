@@ -1,0 +1,35 @@
+---
+title: "Publications"
+---
+
+Also listed on [Google Scholar](https://scholar.google.com/citations?user=OJPOW5sAAAAJ&hl=en). 
+
+::: {.year}
+2026
+:::
+
+**Conditions for Complete Decentralization of the Linear Quadratic Regulator**\
+A. McCurdy, I. Collins, E. Jensen. *27th International Symposium on Mathematical Theory of Networks and Systems (MTNS)*, 2026.\
+[PDF](https://doi.org/10.1016/j.sysconle.2026.106434)
+
+**A System Level Approach to LQR Control of the Diffusion Equation**\
+A. McCurdy, A. Gusty, E. Jensen. *2026 American Control Conference (ACC)*, 2026.\
+[PDF](https://ieeexplore.ieee.org/abstract/document/11616349)
+
+::: {.year}
+2025
+:::
+
+**Complete Decentralization of Linear Quadratic Gaussian Control for the Discrete Wave Equation**\
+A. McCurdy, E. Jensen. *2025 IEEE 64th Conference on Decision and Control (CDC)*, 2025.\
+[PDF](https://doi.org/10.1109/CDC57313.2025.11312106)
+
+::: {.year}
+Under review
+:::
+
+**Complete Decentralization of Wave Equation Control on a Compact Domain**\
+A. McCurdy, E. Jensen. *submitted to SIAM Journal on Control and Optimization*, 2026.\
+[arXiv](https://doi.org/10.48550/arXiv.2611.13449)
+
+

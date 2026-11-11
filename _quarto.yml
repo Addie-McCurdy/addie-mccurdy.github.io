@@ -1,0 +1,46 @@
+project:
+  type: website
+
+website:
+  title: "Addie McCurdy"
+  favicon: images/favicon.png
+  page-footer: "© 2026 Addie McCurdy · Built with [Quarto](https://quarto.org)"
+  sidebar:
+    background: primary
+    foreground: white
+    style: docked
+    search: false
+    logo: images/landscapeHeadshotcrop.jpeg        # replace with your photo (profile.jpg, etc.)
+    logo-alt: "Profile photo of Addie McCurdy"
+    title: "Addie McCurdy<br><span class='sidebar-subtitle'>Ph.D. Candidate<br>University of Colorado Boulder</span>"
+    contents:
+      # Contact links (edit the URLs)
+      - text: "<i class='bi bi-envelope'></i> Email"
+        href: mailto:addie.mccurdy@colorado.edu
+      - text: "<i class='bi bi-mortarboard'></i> Google Scholar"
+        href: https://scholar.google.com/citations?user=OJPOW5sAAAAJ&hl=en
+      - text: "<i class='bi bi-linkedin'></i> LinkedIn"
+        href: https://www.linkedin.com/in/addie-mccurdy
+      - text: "---"
+      # Pages
+      - href: index.qmd
+        text: Home 
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme:
+      light: [zephyr, styles.scss]
+      dark: [darkly, styles.scss]
+    css: styles.css
+    toc: false
+    grid:
+      sidebar-width: 260px
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap">

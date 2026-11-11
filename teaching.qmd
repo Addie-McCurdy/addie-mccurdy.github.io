@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+## Past courses
+
+**Fall 2023.** APPM 2360: Introduction to Differential Equations with Linear Algebra (TA, University of Colorado Boulder)
+
+**Spring 2023.** APPM 1360: Calulus 2 (TA, University of Colorado Boulder)
+
+**Spring 2023.** APPM 1361: Calulus 2 Work Group (Instructor, University of Colorado Boulder)
+
+**Fall 2022.** APPM 1250: Calulus 1 (TA, University of Colorado Boulder)
+
+
+## Mentoring
+
+I am currently mentoring Elena Abbruzzi, an undergraduate student in applied math and electrical engineering, through the Univesity of Colorado's [Discovery Learning Apprenticeship](https://www.colorado.edu/engineering/students/research-opportunities/discovery-learning-apprenticeship-dla-program) (DLA) program. We are working to extend existing results about the structure of optimal controllers for one-dimensional PDEs to higher dimensions. 
