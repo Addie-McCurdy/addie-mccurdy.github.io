@@ -11,7 +11,7 @@ The following links contain more information about my  [publications](publicatio
 
 ## Recent News
 
-- **September 2026:** I completed a research visit at the University of Michigan, hosted by Dr. Pete Seiler. 
+- **September 2026:** I completed a research visit at the University of Michigan, hosted by Dr. Peter Seiler. 
 - **August 2026:** I presented our work *Conditions for complete decentralization of the linear quadratic regulator* at MTNS 2026.
 - **August 2026:** I attended the Port-Hamiltonian school at the University of Waterloo in Ontario, Canada.
 - **May 2026:** I presented our work *A system level approach to LQR Control of the diffusion equation* at ACC 2026.
